@@ -10,4 +10,9 @@ This project implements a real-time video conferencing application using WebRTC,
 <li>Secure Communication: End-to-end encryption and peer-to-peer connections.</li>
 </ol>
 
-
+<h3>Tech Stack</h3>
+<ol>
+<li>Frontend: HTML, CSS, JavaScript</li>
+<li>Real-Time Communication: WebRTC</li>
+<li>Third-Party Service: Agora</li>
+</ol>
