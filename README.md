@@ -4,8 +4,10 @@ This project implements a real-time video conferencing application using WebRTC,
 
 <h3>Features</h3>
 <ol>
-Real-Time Audio & Video Streaming: High-quality, low-latency communication.
-Text Chat Integration: Send and receive messages during calls.
-Screen Sharing: Share your screen with participants.
-Secure Communication: End-to-end encryption and peer-to-peer connections.
+<li>Real-Time Audio & Video Streaming: High-quality, low-latency communication.</li>
+<li>Text Chat Integration: Send and receive messages during calls.</li>
+<li>Screen Sharing: Share your screen with participants.</li>
+<li>Secure Communication: End-to-end encryption and peer-to-peer connections.</li>
 </ol>
+
+
